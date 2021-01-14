@@ -8,6 +8,8 @@ Installation
 
 Usage
 
+Enter https://eibonmon.github.io/Day-planner-hw/ in your web brower address bar
+
 Enter an event(s) in the time block of your choice from 9 A.M to 5 P.M 
 
 Click on the save icon to save the event
