@@ -21,9 +21,13 @@ if the event is in the future, the timeblock will green
 Credits
 
 https://github.com/JenG1/Day-Planner
+
 https://github.com/gabepettus/DayPlanner
+
 https://medium.com/@aleks.roslyakov/using-css-grid-jquery-making-a-daily-scheduler-pt-ii-7af7d239a55d
+
 https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp
+
 https://medium.com/@aleks.roslyakov/using-css-grid-jquery-making-a-daily-scheduler-pt-i-6ba0d2b37e6f
 
 License 
